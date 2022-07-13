@@ -1,4 +1,4 @@
-### SELECT "Eu sou a Brenda"; 👋
+### SELECT "Eu sou a Brenda";
 
 - ✨ Ela/Dela
 - 🖥️ Engenheira de Dados Jr
