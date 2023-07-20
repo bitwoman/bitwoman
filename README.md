@@ -2,8 +2,8 @@
 
 - ✨ Ela/Dela
 - 🖥️ Engenheira de Dados Jr
-- 📚 Estudando as linguagens Python e Java 
-- ☁️ Estudando Google Cloud Platform (GCP)
+- 📚 Estudando as linguagens Python e Java nas horas vagas
+- ☁️ Estudando Azure Cloud
 
 <div align="center">
   <a href="https://github.com/bitwoman">
