@@ -1,7 +1,7 @@
 ### SELECT "Eu sou a Brenda";
 
 - ✨ Ela/Dela
-- 🖥️ Engenheira de Dados Jr
+- 🖥️ Engenheira de Dados
 - 📚 Estudando Python
 - ☁️ Estudando Azure Cloud
 - 📃 DP-900 (Azure), Databricks Lakehouse Fundamentals
