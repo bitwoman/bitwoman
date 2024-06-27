@@ -2,8 +2,9 @@
 
 - ✨ Ela/Dela
 - 🖥️ Engenheira de Dados Jr
-- 📚 Estudando as linguagens Python e Java nas horas vagas
+- 📚 Estudando Python
 - ☁️ Estudando Azure Cloud
+- 📃 DP-900 (Azure), Databricks Lakehouse Fundamentals
 
 <div align="center">
   <a href="https://github.com/bitwoman">
