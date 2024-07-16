@@ -4,7 +4,7 @@
 - 🖥️ Engenheira de Dados
 - 📚 Estudando Python
 - ☁️ Estudando Azure Cloud
-- 📃 DP-900 (Azure), Databricks Lakehouse Fundamentals
+- 📃 AZ-900 (Azure), DP-900 (Azure), Databricks Lakehouse Fundamentals
 
 <div align="center">
   <a href="https://github.com/bitwoman">
