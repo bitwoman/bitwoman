@@ -3,7 +3,7 @@
 - ✨ Ela/Dela
 - 🖥️ Engenheira de Dados
 - 📚 Estudando Python
-- ☁️ Estudando Azure Cloud
+- ☁️ Estudando Azure Cloud e GCP
 - 📃 AZ-900 (Azure), DP-900 (Azure), Databricks Lakehouse Fundamentals
 
 <div align="center">
