@@ -3,7 +3,7 @@
 - ✨ Ela/Dela
 - 🖥️ Engenheira de Dados
 - 📚 Estudando Python
-- ☁️ Estudando Azure Cloud e GCP
+- ☁️ Estudando Azure Cloud, GCP, Airflow
 - 📃 AZ-900 (Azure), DP-900 (Azure), Databricks Lakehouse Fundamentals
 
 <div align="center">
@@ -19,6 +19,8 @@
   <img align="center" alt="bitwoman-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="bitwoman-sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="bitwoman-gcp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="bitwoman-gcp" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
+          
 </div>
 
   ##
